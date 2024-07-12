@@ -1,3 +1,10 @@
+## Acknowledgements
+
+This project is based on Bee You by Winnie Moy, Joyce He, Davis Lim, Leo Maisnam.
+Original repository: https://github.com/davis-lim/CSE-Hackathon
+
+We have made significant changes to the front end and the back end. We thank Winnie Moy, Joyce He, Davis Lim, Leo Maisnamfor their work.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
